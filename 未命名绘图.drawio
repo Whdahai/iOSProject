@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T05:35:29.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mnLu63Ne3J7haTK1uCkY" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T05:37:08.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="bcbtvRGyHiV9QpUZnY9R" version="20.8.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
             <mxPoint x="463" y="762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4UypmrDm1dBJgWFIcm2-9" value="his提供的视图&lt;br&gt;从his系统获取相关基础数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-2">
+        <mxCell id="S4UypmrDm1dBJgWFIcm2-9" value="his提供的视图&lt;br&gt;从his系统获取相关基础数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-2">
           <mxGeometry x="0.3008" y="1" relative="1" as="geometry">
             <mxPoint x="-27" y="19" as="offset" />
           </mxGeometry>
@@ -76,15 +76,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4UypmrDm1dBJgWFIcm2-13" value="返回诊室、挂号、医生数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-10">
+        <mxCell id="S4UypmrDm1dBJgWFIcm2-13" value="返回诊室、挂号、医生数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-10">
           <mxGeometry x="-0.0141" relative="1" as="geometry">
             <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4UypmrDm1dBJgWFIcm2-15" value="CIS系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="S4UypmrDm1dBJgWFIcm2-15" value="CIS系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="1020" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="S4UypmrDm1dBJgWFIcm2-18" value="叫号系统提供api接口&lt;br&gt;cis系统从叫号系统获取患者挂号等信息" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;labelPosition=center;verticalLabelPosition=middle;horizontal=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="S4UypmrDm1dBJgWFIcm2-18" value="叫号系统提供api接口&lt;br&gt;cis系统从叫号系统获取患者挂号等信息" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;labelPosition=center;verticalLabelPosition=middle;horizontal=0;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="790" width="50" height="220" as="geometry" />
         </mxCell>
         <mxCell id="S4UypmrDm1dBJgWFIcm2-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -100,7 +100,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4UypmrDm1dBJgWFIcm2-21" value="叫号系统api接口交互&lt;br&gt;返回挂号等信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;horizontal=0;" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-20">
+        <mxCell id="S4UypmrDm1dBJgWFIcm2-21" value="叫号系统api接口交互&lt;br&gt;返回挂号等信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;horizontal=0;fontStyle=0" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-20">
           <mxGeometry x="-0.2629" y="2" relative="1" as="geometry">
             <mxPoint x="17" y="13" as="offset" />
           </mxGeometry>
@@ -118,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4UypmrDm1dBJgWFIcm2-23" value="通过叫号系统api接口返回叫号状态&lt;br&gt;（未呼叫、已呼叫、就诊中、过号、删除、已就诊）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;horizontal=0;" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-22">
+        <mxCell id="S4UypmrDm1dBJgWFIcm2-23" value="通过叫号系统api接口返回叫号状态&lt;br&gt;（未呼叫、已呼叫、就诊中、过号、删除、已就诊）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;horizontal=0;fontStyle=0" vertex="1" connectable="0" parent="S4UypmrDm1dBJgWFIcm2-22">
           <mxGeometry x="0.1758" relative="1" as="geometry">
             <mxPoint x="-33" y="26" as="offset" />
           </mxGeometry>
