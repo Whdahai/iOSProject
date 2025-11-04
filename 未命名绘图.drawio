@@ -818,8 +818,8 @@
         </mxCell>
         <mxCell id="fIpuj15KyVtIqdTPXD9H-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-453" y="1969.5" as="sourcePoint" />
-            <mxPoint x="-373" y="1969.5" as="targetPoint" />
+            <mxPoint x="-430" y="1969" as="sourcePoint" />
+            <mxPoint x="-350" y="1969" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fIpuj15KyVtIqdTPXD9H-121" value="微信首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -841,7 +841,7 @@
           <mxGeometry x="-336" y="1970" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fIpuj15KyVtIqdTPXD9H-128" value="检验预约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-336" y="1980" width="70" height="30" as="geometry" />
+          <mxGeometry x="-323" y="1980" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIpuj15KyVtIqdTPXD9H-129" value="172.16.3.27" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-242" y="1980" width="90" height="30" as="geometry" />
